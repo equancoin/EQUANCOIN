@@ -1,32 +1,24 @@
+### EQUAN COIN
 
-EQUANCOIN development tree
+<p style="text-align:center;"><img src="https://equancoin.com/wp-content/uploads/2018/06/equancoin-banner.png"></p>
 
-EQUANCOIN is a PoS-based cryptocurrency.
+EQUANCOIN is a peer-to-peer digital cryptocurrency based on the script algoritm, which makes it possible to transfer any amount to anyone instantly, with nearly zero costs. 
+With Proof Of Stake (PoS) it is possible to stake with no maximum age.
 
-Development process
-===========================
+## EQUAN COIN Specifications
 
-Developers work in their own trees, then submit pull requests when
-they think their feature or bug fix is ready.
+```
+Name: EQUANCOIN
+Coin abbreviation: EQC
+Algorithm: Scrypt (PoS)
+Coin supply: 24.150.000 coins
+Min. stake age: 8 hours
+Max. stake age: unlimited
+PoS percentage: 10% per year
+Coinbase maturity: 10 blocks
+Transaction confirmations: 6 blocks
+```
 
-The patch will be accepted if there is broad consensus that it is a
-good thing.  Developers should expect to rework and resubmit patches
-if they don't match the project's coding conventions (see coding.txt)
-or are controversial.
-
-The master branch is regularly built and tested, but is not guaranteed
-to be completely stable. Tags are regularly created to indicate new
-stable release versions of EQUANCOIN.
-
-Feature branches are created when there are major new features being
-worked on by several people.
-
-From time to time a pull request will become outdated. If this occurs, and
-the pull is no longer automatically mergeable; a comment on the pull will
-be used to issue a warning of closure. The pull will be closed 15 days
-after the warning if action is not taken by the author. Pull requests closed
-in this manner will have their corresponding issue labeled 'stagnant'.
-
-Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'.
+## Important Links
+  * Website https://equancoin.com/
+  * Twitter https://twitter.com/EQUANCOIN
